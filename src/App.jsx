@@ -12,7 +12,7 @@ import Projects from "./sections/Projects";
 // import Testimonials from "./sections/Testimonials";
 import Contact from "./sections/Contact";
 import Footer from "./sections/Footer";
-import IntroAnimation from "./components/INtroAnimation";
+import IntroAnimation from "./components/IntroAnimation";
 
 
 export default function App() {
