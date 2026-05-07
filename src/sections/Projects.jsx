@@ -5,7 +5,7 @@ import { motion, useScroll, AnimatePresence } from "framer-motion";
 // ---------- IMPORT IMAGES ----------
 // These are sample project screenshots.
 // Replace them with your own project images (desktop + mobile versions).
-import img1 from "../assets/img1.JPG";
+import img1 from "../assets/img1.png";
 import img2 from "../assets/img2.JPG";
 import img3 from "../assets/img3.JPG";
 
@@ -58,27 +58,27 @@ export default function Projects() {
   const baseProjects = React.useMemo(
     () => [
       {
-        title: "nk studio",
-        link: "https://www.nk.studio/",
-        bgColor: "#0d4d3d",
+        title: "Job Hook",
+        link: "https://job-portal-frontend-df3b.onrender.com/",
+        bgColor: "#33322F",
         desktop: img1,
         mobile: photo1,
       },
-      {
-        title: "Gamily",
-        link: "https://gamilyapp.com/",
-        bgColor: "#3884d3",
-        desktop: img2,
-        mobile: photo2,
-      },
-      {
-        title: "Hungry Tiger",
-        link: "https://www.eathungrytiger.com/",
-        bgColor: "#dc9317",
-        desktop: img3,
-        mobile: photo3,
-      },
-    ],
+    //   {
+    //     title: "Gamily",
+    //     link: "https://gamilyapp.com/",
+    //     bgColor: "#3884d3",
+    //     desktop: img2,
+    //     mobile: photo2,
+    //   },
+    //   {
+    //     title: "Hungry Tiger",
+    //     link: "https://www.eathungrytiger.com/",
+    //     bgColor: "#dc9317",
+    //     desktop: img3,
+    //     mobile: photo3,
+    //   },
+     ],
     []
   );
 

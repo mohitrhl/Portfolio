@@ -42,7 +42,7 @@ export default function Home() {
      TYPEWRITER LOGIC
      ============================ */
   // const roles = ["Software Developer", "Web Developer", "Content Creator"];
-  const roles = React.useMemo(() => ["Software Developer", "Web Developer"], []);
+  const roles = React.useMemo(() => ["Software Developer", "Java Full Stack Developer"], []);
   const TYPE_SPEED = 60;
   const ERASE_SPEED = 40;
   const HOLD_TIME = 1200;
@@ -132,8 +132,8 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4, duration: 0.8 }}
             >
-              I turn complex ideas into seamless, high-impact web experiences — 
-              building modern, scalable, and lightning-fast applications that make a difference.
+              Aspiring Java Full Stack Developer with hands-on experience in Java, Spring Boot, React, and PostgreSQL. Skilled in building responsive web applications, REST APIs, and efficient back-end systems with 
+              a strong focus on problem solving and clean development practices.
             </motion.p>
 
             {/* CALL-TO-ACTION BUTTONS */}
@@ -152,7 +152,7 @@ export default function Home() {
                 View My Work
               </a>
               <a
-                href="/Resume.pdf"
+                href="/resume.pdf"
                 download
                 className="px-6 py-3 rounded-full text-lg font-medium text-black bg-white 
                            hover:bg-gray-200 shadow-lg hover:scale-105 transition-all duration-300"

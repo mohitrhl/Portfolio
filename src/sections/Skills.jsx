@@ -40,11 +40,11 @@ export default function Skills() {
     // Your original skills
     { icon: <FaJava />, name: "Java" },
     { icon: <FaReact />, name: "React" },
-    { icon: <SiNextdotjs />, name: "Next.js" },
-    { icon: <SiTypescript />, name: "TypeScript" },
+    //{ icon: <SiNextdotjs />, name: "Next.js" },
+    //{ icon: <SiTypescript />, name: "TypeScript" },
     { icon: <SiTailwindcss />, name: "Tailwind CSS" },
-    { icon: <SiFastapi />, name: "FastAPI" },
-    { icon: <SiPython />, name: "Python" },
+    //{ icon: <SiFastapi />, name: "FastAPI" },
+    //{ icon: <SiPython />, name: "Python" },
     { icon: <SiDocker />, name: "Docker" },
     { icon: <SiMongodb />, name:"MongoDB" },
 
@@ -52,9 +52,9 @@ export default function Skills() {
     { icon: <FaHtml5 />, name: "HTML" },
     { icon: <FaCss3Alt />, name: "CSS" },
     { icon: <SiJavascript />, name: "JavaScript" },
-    { icon: <SiGraphql />, name: "GraphQL" },
-    { icon: <FaBootstrap />, name: "Bootstrap" },
-    { icon: <SiRedux />, name: "Redux" },
+    //{ icon: <SiGraphql />, name: "GraphQL" },
+    //{ icon: <FaBootstrap />, name: "Bootstrap" },
+    //{ icon: <SiRedux />, name: "Redux" },
     { icon: <SiRedux />, name: "Redux Toolkit" }, // For "redux tool"
     { icon: <SiMysql />, name: "MySQL" },
     { icon: <SiCplusplus />, name: "C++" },
@@ -62,9 +62,9 @@ export default function Skills() {
     { icon: <FaSitemap />, name: "Microservices" },
     { icon: <SiJunit5 />, name: "JUnit" },
     { icon: <FaVial />, name: "Mockito" },
-    { icon: <SiApachekafka />, name: "Kafka" },
+    //{ icon: <SiApachekafka />, name: "Kafka" },
     { icon: <SiRabbitmq />, name: "RabbitMQ" },
-    { icon: <SiKubernetes />, name: "Kubernetes" }, // For "kubernates"
+    //{ icon: <SiKubernetes />, name: "Kubernetes" }, // For "kubernates"
     { icon: <FaAws />, name: "AWS" },
   ];
 

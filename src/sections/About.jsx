@@ -46,9 +46,8 @@ export default function About() {
               Java Full Stack Developer
             </p>
             <p className="mt-4 text-gray-300 leading-relaxed text-base sm:text-lg max-w-2xl md:max-w-3xl">
-              I build scalable, modern web applications with a strong focus on clean architecture, 
-              efficient back-end systems, and intuitive user experiences. My expertise spans Java,
-               Spring Boot, React, TypeScript, and Tailwind CSS—delivering robust APIs, responsive UIs, and seamless end-to-end solutions from concept to deployment.
+              Aspiring Java Full Stack Developer passionate about building efficient back-end systems and scalable web applications. Experienced with Java, Spring Boot, 
+              React, MySQL/PostgreSQL, and REST APIs, with a solid understanding of full-stack development fundamentals.
             </p>
 
             {/* Quick stats */}
